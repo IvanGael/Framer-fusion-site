@@ -1,3 +1,5 @@
+// ignore_for_file: unused_field
+
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:framer_fusion/constants/colors.dart';

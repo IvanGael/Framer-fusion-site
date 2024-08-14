@@ -82,7 +82,7 @@ class _BottomBarState extends State<BottomBar> {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text(
-                  "© 2023 Fusion, Inc.",
+                  "© 2024 Fusion, Inc.",
                   style: TextStyle(color: AppColors.white),
                 ),
                 Row(
